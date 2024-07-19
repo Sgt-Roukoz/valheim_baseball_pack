@@ -1,0 +1,33 @@
+{
+    "name": "Baseball_Modpack",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/Sgt-Roukoz/valheim_baseball_pack",
+    "description": "Modpack for friends in the Baseball server",
+    "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.2202",
+        "Smoothbrain-Sailing-1.1.7",
+        "Smoothbrain-Exploration-1.0.3",
+        "Nextek-SpeedyPaths-1.0.8",
+        "Marf-FuelEternal-1.2.1",
+        "Tekla-AutoRepair-5.4.1602",
+        "VegettaPT-No_Food_Degradation-1.0.0",
+        "BlackViking-CraftingFromContainers-0.0.1",
+        "Aicho-JowlethNoRainDamage-1.2.1",
+        "Azumatt-Recycle_N_Reclaim-1.3.4",
+        "Thordomr-Display_Day_and_Time_in_HUD-1.1.2",
+        "Smoothbrain-Backpacks-1.3.4",
+        "RandyKnapp-EquipmentAndQuickSlots-2.1.13",
+        "BetterUI_ForeverMaintained-BetterUI_ForeverMaintained-2.5.6",
+        "ValheimModding-Jotunn-2.20.1",
+        "BentoG-MissingPieces-2.2.0",
+        "Azumatt-DeezMistyBalls-1.0.5",
+        "shudnal-HipLantern-1.0.3",
+        "blacks7ar-WeaponHolsterOverhaul-1.1.7",
+        "Advize-PlantEverything-1.18.1",
+        "Advize-PlantEasily-1.8.1",
+        "ishid4-BetterArchery-1.9.7",
+        "blacks7ar-RegenWhileSitting-1.0.4",
+        "FixItFelix-AutoMapPins-2.2.1",
+        "JuneGame-ForsakenPowerOverhaul-2.1.0"
+    ]
+}
