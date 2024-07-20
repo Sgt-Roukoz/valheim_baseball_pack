@@ -1,8 +1,8 @@
 {
     "name": "Baseball_Pack",
-    "version_number": "1.0.0",
+    "version_number": "1.0.1",
     "website_url": "https://github.com/Sgt-Roukoz/valheim_baseball_pack",
-    "description": "Modpack for friends in the Baseball server",
+    "description": "Pack of various QoL mods for the Baseball server",
     "dependencies": [
         "denikson-BepInExPack_Valheim-5.4.2202",
         "Smoothbrain-Sailing-1.1.7",
@@ -28,6 +28,7 @@
         "ishid4-BetterArchery-1.9.7",
         "blacks7ar-RegenWhileSitting-1.0.4",
         "FixItFelix-AutoMapPins-2.2.1",
-        "JuneGame-ForsakenPowerOverhaul-2.1.0"
+        "JuneGame-ForsakenPowerOverhaul-2.1.0",
+        "Therzie-Warfare-1.7.5"
     ]
 }
