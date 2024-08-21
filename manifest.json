@@ -1,6 +1,6 @@
 {
     "name": "Baseball_Pack",
-    "version_number": "1.0.1",
+    "version_number": "1.1.2",
     "website_url": "https://github.com/Sgt-Roukoz/valheim_baseball_pack",
     "description": "Pack of various QoL mods for the Baseball server",
     "dependencies": [
@@ -12,12 +12,11 @@
         "Tekla-AutoRepair-5.4.1602",
         "VegettaPT-No_Food_Degradation-1.0.0",
         "BlackViking-CraftingFromContainers-0.0.1",
-        "Aicho-JowlethNoRainDamage-1.2.1",
+        "Jowleth-NoRainDamage-1.2.2",
         "Azumatt-Recycle_N_Reclaim-1.3.4",
         "Thordomr-Display_Day_and_Time_in_HUD-1.1.2",
         "Smoothbrain-Backpacks-1.3.4",
-        "RandyKnapp-EquipmentAndQuickSlots-2.1.13",
-        "BetterUI_ForeverMaintained-BetterUI_ForeverMaintained-2.5.6",
+        "Azumatt-AzuExtendedPlayerInventory-1.4.3",
         "ValheimModding-Jotunn-2.20.1",
         "BentoG-MissingPieces-2.2.0",
         "Azumatt-DeezMistyBalls-1.0.5",
@@ -29,6 +28,12 @@
         "blacks7ar-RegenWhileSitting-1.0.4",
         "FixItFelix-AutoMapPins-2.2.1",
         "JuneGame-ForsakenPowerOverhaul-2.1.0",
-        "Therzie-Warfare-1.7.5"
+        "Therzie-Warfare-1.7.5",
+        "Goldenrevolver-Quick_Stack_Store_Sort_Trash_Restock-1.4.8",
+        "MSchmoecker-MultiUserChest-0.5.10",
+        "Azumatt-AAA_Crafting-1.5.6",
+        "Azumatt-Official_BepInEx_ConfigurationManager-18.3.0",
+        "Smoothbrain-Cooking-1.1.16",
+        "Smoothbrain-Blacksmithing-1.3.0"
     ]
 }
